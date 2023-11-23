@@ -1,0 +1,4 @@
+ 2034  npm create astro@latest
+ 2043  npx astro add solid
+ 2044  npx astro add tailwind
+

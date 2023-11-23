@@ -1,0 +1,19 @@
+{
+  "name": "solidjs_try",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/solid-js": "^3.0.2",
+    "@astrojs/tailwind": "^5.0.2",
+    "astro": "^3.6.0",
+    "solid-js": "^1.8.6",
+    "tailwindcss": "^3.3.5"
+  }
+}

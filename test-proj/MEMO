@@ -1,0 +1,10 @@
+ npm create astro@latest
+ cd test-proj/
+ npx astro add tailwind
+ npm install --save-dev prettier prettier-plugin-astro
+
+
+ npm run dev
+
+
+
